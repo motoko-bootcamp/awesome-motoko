@@ -49,7 +49,7 @@ This repository contains the code used by mentors during some of those lectures.
 - [Motoko : create, read, update & delete](lectures/create_read_update_delete/).
 - [Motoko : admin access, error handling and cycles management](lectures/admins-errors-cycles/).
 - [Token, nfts and standards on the IC](lectures/token-standards/).
-- 
+
 
 ## Ressources 📚
 
