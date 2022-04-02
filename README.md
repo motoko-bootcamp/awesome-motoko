@@ -1,18 +1,18 @@
-# Getting started with the Internet Computer.
+# Getting started with the Internet Computer ♾.
 
 This repository contains curated content from the 1st edition of the <a href="https://github.com/motoko-bootcamp/bootcamp" target="_blank"> **Motoko Bootcamp** </a> . 
 
-## Guide and challenges 
+## Guide and challenges 📜
 
-6 differents topics are covered.
+6 differents topics are covered, all the lessons are focused on **Motoko**.
 For each topic, a guide is available and a set of challenges with their solution are also available.
 
-1) Introduction to Motoko : variables, types, function, modules, loops & iterators.
-2) String : Binary / Bytes / ASCII / Unicode / Char & Text modules.
-3) Array / Optional type / Switch expression / Generic type / Higher order functions.
-4) Custom type / Linked list / Buffer / Algorithm complexity.
-5) Hash / Hashmap / Stable variable & upgrades.
-6) Recursion / Binary search tree / Divide & Conquer.
+- Introduction :  **Actor**, **function**, **types**,**variables**, **loops** and **modules**.
+- **Binary**, **Nat 8**, **Char** and **Text**.
+- **Array**, **Optional and Generic type**, and **Higher order functions**. 
+- **Custom type** and **Linked list**.
+- **Principal**, **Hashmap**, **Cycles** (how to deal with upgrades) & **stable variables**.
+- **Variant types**, **Result type**, **HTTP request** & **Intercanister messages**.
 
 ## Lectures 🎬
 
@@ -72,3 +72,10 @@ Links to other helpful ressources.
 
 
 <a href="https://github.com/dfinity/invoice-canister" target="_blank"> **The invoice canister** </a> : processing payments on the IC. 💰
+
+## Communities 👦
+
+- <a href="https://discord.gg/m3x86APHyX" target="_blank"> Developer discord </a
+- <a href="https://forum.dfinity.org/" target="_blank"> Dfinity forum </a
+
+
