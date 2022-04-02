@@ -44,7 +44,7 @@ Each lecture was held live by one of the bootcamp mentor. The recording is avail
 
 This repository contains the code used by mentors during some of those lectures.
 
-- [Motoko : mutable states and shared types](lectures/admins-errors-cycles/readme.md).
+- [Motoko : mutable states and shared types](lectures/admins-errors-cycles/).
 - Deploying a website on the Internet Computer.
 - Motoko : Create, read, update & delete.
 - Motoko : admin access, error handling and cycles management.
