@@ -42,7 +42,7 @@ Each lecture was held live by one of the bootcamp mentor. The recording is avail
 - Rust : storing data and keeping it secure on the IC by <a href="" target="_blank"> Nima </a>.
 - Token, nfts and standards on the IC by <a href="" target="_blank"> Jorgen </a>.
 
-This repository also contains the code used by mentors during some of those lectures.
+This repository also contains the code used by mentors during some lectures.
 
 - [Motoko : mutable states and shared types](lectures/mutable_state_shared_type/).
 - [Deploying a website on the Internet Computer](lectures/deploying_website_internet_computer/).
@@ -72,7 +72,7 @@ Links to other helpful ressources.
 <a href="https://github.com/MioQuispe/create-ic-app" target="_blank"> **create-ic-app** </a> : Template project for major framework (Vue, React, Vanilla JS,Svelte).
 
 
-<a href="https://github.com/dfinity/invoice-canister" target="_blank"> **The invoice canister** </a> : processing payments on the IC. �
+<a href="https://github.com/dfinity/invoice-canister" target="_blank"> **The invoice canister** </a> : processing payments on the IC.
 
 ## Communities 👦
 
