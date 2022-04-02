@@ -44,10 +44,11 @@ Each lecture was held live by one of the bootcamp mentor. The recording is avail
 
 This repository contains the code used by mentors during some of those lectures.
 
-- 
--
--
--
+- [Motoko : mutable states and shared types](lectures/admins-errors-cycles/readme.md).
+- Deploying a website on the Internet Computer.
+- Motoko : Create, read, update & delete.
+- Motoko : admin access, error handling and cycles management.
+- Token, nfts and standards on the IC.
 
 ## Ressources 📚
 
@@ -77,5 +78,4 @@ Links to other helpful ressources.
 
 - <a href="https://discord.gg/m3x86APHyX" target="_blank"> Developer discord </a>
 - <a href="https://forum.dfinity.org/" target="_blank"> Dfinity forum </a>
-
 
