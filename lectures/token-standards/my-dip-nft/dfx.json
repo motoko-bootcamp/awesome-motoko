@@ -1,0 +1,15 @@
+{
+    "dfx": "0.8.4",
+    "canisters": {
+        "my-dip-nft": {
+            "type": "motoko",
+            "main": "main.mo"
+        },
+        "assets": {
+            "type": "assets",
+            "source": [
+                "assets"
+            ]
+        }
+    }
+}
