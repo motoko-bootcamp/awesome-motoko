@@ -18,29 +18,29 @@ For each topic, a guide is available and a set of challenges with their solution
 
 Each lecture was held live by one of the bootcamp mentor. The recording is available here.
 
-1) Motoko : an introduction to the language by <a href="" target="_blank"> Seb </a>.
-2) Motoko : Variables, function and types by Albert Du.
-3) An introduction to the Internet Computer protocol by Bob.
-4) Why Web 3.0 and the IC matter by Weedpatch.
-5) Motoko : Create, read, update & delete by Seb.
-6) Deploying your first canister locally and on the Internet Computer by 
-7) Introduction to NFTs on the IC by Ted.
-8) How to build an NFT minter by Seb.
-9) Candid, the language of the Internet Computer by 
-10) Frontend and authentication by 
-11) Motoko : handle HTTP request and assets by Austin F
-12) Motoko : mutable states and shared types by 
-13) Rust : using tests to speed up development by 
-14) Deplying a website on the Internet Computer by 
-15) Motoko : packages and vessel by
-16) Motoko : admin access, error handling and cycles management by
-17) Motoko : variant types by 
-18) An introduction to the ICP ledger by 
-19) Typescript : writing canister with TS by
-20) How to interact with a canister by 
-21) Rust : handle ICP payments.
-22) Rust : storing data and keeping it secure on the IC by 
-23) Token, nfts and standards on the IC by
+- 1) Motoko : an introduction to the language by <a href="" target="_blank"> Seb </a>.
+- 2) Motoko : Variables, function and types by <a href="" target="_blank"> Albert </a>.
+- 3) An introduction to the Internet Computer protocol by <a href="" target="_blank"> Bob </a>.
+- 4) Why Web 3.0 and the IC matter by <a href="" target="_blank"> Weedpatch </a>. 
+- 5) Motoko : Create, read, update & delete by <a href="" target="_blank"> Seb </a>.
+- 6) Deploying your first canister locally and on the Internet Computer by <a href="" target="_blank"> Anthony </a>.
+- 7) Introduction to NFTs on the IC by <a href="" target="_blank"> Ted </a>.
+- 8) How to build an NFT minter by <a href="" target="_blank"> Seb </a>.
+- 9) Candid, the language of the Internet Computer by <a href="" target="_blank"> Yan </a>.
+- 10) Frontend and authentication by <a href="" target="_blank"> Kyle </a>.
+- 11) Motoko : handle HTTP request and assets by <a href="" target="_blank"> Austin </a>.
+- 12) Motoko : mutable states and shared types by <a href="" target="_blank"> </a>.
+- 13) Rust : using tests to speed up development by <a href="" target="_blank"> Adam </a>.
+- 14) Deploying a website on the Internet Computer by <a href="" target="_blank"> </a>.
+- 15) Motoko : packages and vessel by <a href="" target="_blank"> Quint </a>.
+- 16) Motoko : admin access, error handling and cycles management by <a href="" target="_blank"> Jorgen </a>.
+- 17) Motoko : variant types by <a href="" target="_blank"> Paul </a>.
+- 18) An introduction to the ICP ledger by <a href="" target="_blank"> Fulco </a>.
+- 19) Typescript : writing canister with TS by <a href="" target="_blank"> Jordan </a>.
+- 20) How to interact with a canister by <a href="" target="_blank"> Albert </a>.
+- 21) Rust : handle ICP payments by <a href="" target="_blank"> Adam </a>.
+- 22) Rust : storing data and keeping it secure on the IC by <a href="" target="_blank"> Nima </a>.
+- 23) Token, nfts and standards on the IC by <a href="" target="_blank"> Jorgen </a>.
 
 This repository contains the code used by mentors during some of those lectures.
 
@@ -72,9 +72,3 @@ Links to other helpful ressources.
 
 
 <a href="https://github.com/dfinity/invoice-canister" target="_blank"> **The invoice canister** </a> : processing payments on the IC. 💰
-
-
-
-
-
-
