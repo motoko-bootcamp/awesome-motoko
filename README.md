@@ -2,7 +2,7 @@
 
 This repository contains curated content from the 1st edition of the <a href="https://github.com/motoko-bootcamp/bootcamp" target="_blank"> **Motoko Bootcamp** </a> . 
 
-## Guide and challenges 📜
+## Lessons 📜
 
 6 differents topics are covered, all the lessons are focused on **Motoko**.
 For each topic, a guide is available and a set of challenges with their solution are also available.
@@ -65,17 +65,17 @@ Links to other helpful ressources.
 <a href="https://github.com/orgs/DFINITY-Education/repositories" target="_blank"> **Dfinity education** </a> : Educational ressources on datastructures, web development, blockchain and more.
 
 
-<a href="https://github.com/dfinity/examples" target="_blank"> **Examples ** </a> : Sample code and applications written in Rust or Motoko. 
+<a href="https://github.com/dfinity/examples" target="_blank"> **Examples** </a> : Sample code and applications written in Rust or Motoko. 
 
 
 <a href="https://github.com/MioQuispe/create-ic-app" target="_blank"> **create-ic-app** </a> : Template project for major framework (Vue, React, Vanilla JS,Svelte).
 
 
-<a href="https://github.com/dfinity/invoice-canister" target="_blank"> **The invoice canister** </a> : processing payments on the IC. 💰
+<a href="https://github.com/dfinity/invoice-canister" target="_blank"> **The invoice canister** </a> : processing payments on the IC. �
 
 ## Communities 👦
 
-- <a href="https://discord.gg/m3x86APHyX" target="_blank"> Developer discord </a
-- <a href="https://forum.dfinity.org/" target="_blank"> Dfinity forum </a
+- <a href="https://discord.gg/m3x86APHyX" target="_blank"> Developer discord </a>
+- <a href="https://forum.dfinity.org/" target="_blank"> Dfinity forum </a>
 
 
