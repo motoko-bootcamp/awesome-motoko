@@ -4,7 +4,7 @@ This repository contains curated content from the 1st edition of the <a href="ht
 
 ## Lessons 📜
 
-6 differents topics are covered, all the lessons are focused on **Motoko**.
+6 differents topics are covered, all the lessons are focused on **Motoko**. <br/>
 For each topic, a guide is available and a set of challenges with their solution are also available.
 
 - [Introduction :  **Actor**, **function**, **types**,**variables**, **loops** and **modules**](lessons/day_1/)
@@ -50,7 +50,6 @@ This repository also contains the code used by mentors during some of those lect
 - [Motoko : admin access, error handling and cycles management](lectures/admins-errors-cycles/).
 - [Token, nfts and standards on the IC](lectures/token-standards/).
 
-
 ## Ressources 📚
 
 Links to other helpful ressources.
@@ -79,4 +78,3 @@ Links to other helpful ressources.
 
 - <a href="https://discord.gg/m3x86APHyX" target="_blank"> Developer discord </a>
 - <a href="https://forum.dfinity.org/" target="_blank"> Dfinity forum </a>
-
