@@ -44,11 +44,12 @@ Each lecture was held live by one of the bootcamp mentor. The recording is avail
 
 This repository contains the code used by mentors during some of those lectures.
 
-- [Motoko : mutable states and shared types](lectures/admins-errors-cycles/).
-- Deploying a website on the Internet Computer.
-- Motoko : Create, read, update & delete.
-- Motoko : admin access, error handling and cycles management.
-- Token, nfts and standards on the IC.
+- [Motoko : mutable states and shared types](lectures/mutable_state_shared_type/).
+- [Deploying a website on the Internet Computer](lectures/deploying_website_internet_computer/).
+- [Motoko : create, read, update & delete](lectures/create_read_update_delete/).
+- [Motoko : admin access, error handling and cycles management](lectures/admins-errors-cycles/).
+- [Token, nfts and standards on the IC](lectures/token-standards/).
+- 
 
 ## Ressources 📚
 
