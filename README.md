@@ -2,7 +2,7 @@
 
 This repository contains curated content from the 1st edition of the <a href="https://github.com/motoko-bootcamp/bootcamp" target="_blank"> **Motoko Bootcamp** </a> . 
 
-## Guide and challenges 📜
+## Lessons 📜
 
 6 differents topics are covered, all the lessons are focused on **Motoko**.
 For each topic, a guide is available and a set of challenges with their solution are also available.
