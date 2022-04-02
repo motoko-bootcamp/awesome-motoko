@@ -65,7 +65,7 @@ Links to other helpful ressources.
 <a href="https://github.com/orgs/DFINITY-Education/repositories" target="_blank"> **Dfinity education** </a> : Educational ressources on datastructures, web development, blockchain and more.
 
 
-<a href="https://github.com/dfinity/examples" target="_blank"> **Examples ** </a> : Sample code and applications written in Rust or Motoko. 
+<a href="https://github.com/dfinity/examples" target="_blank"> **Examples** </a> : Sample code and applications written in Rust or Motoko. 
 
 
 <a href="https://github.com/MioQuispe/create-ic-app" target="_blank"> **create-ic-app** </a> : Template project for major framework (Vue, React, Vanilla JS,Svelte).
@@ -75,7 +75,7 @@ Links to other helpful ressources.
 
 ## Communities 👦
 
-- <a href="https://discord.gg/m3x86APHyX" target="_blank"> Developer discord </a
-- <a href="https://forum.dfinity.org/" target="_blank"> Dfinity forum </a
+- <a href="https://discord.gg/m3x86APHyX" target="_blank"> Developer discord </a>
+- <a href="https://forum.dfinity.org/" target="_blank"> Dfinity forum </a>
 
 
