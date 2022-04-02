@@ -42,7 +42,7 @@ Each lecture was held live by one of the bootcamp mentor. The recording is avail
 - Rust : storing data and keeping it secure on the IC by <a href="" target="_blank"> Nima </a>.
 - Token, nfts and standards on the IC by <a href="" target="_blank"> Jorgen </a>.
 
-This repository contains the code used by mentors during some of those lectures.
+This repository also contains the code used by mentors during some of those lectures.
 
 - [Motoko : mutable states and shared types](lectures/mutable_state_shared_type/).
 - [Deploying a website on the Internet Computer](lectures/deploying_website_internet_computer/).
