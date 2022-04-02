@@ -7,12 +7,12 @@ This repository contains curated content from the 1st edition of the <a href="ht
 6 differents topics are covered, all the lessons are focused on **Motoko**.
 For each topic, a guide is available and a set of challenges with their solution are also available.
 
-- Introduction :  **Actor**, **function**, **types**,**variables**, **loops** and **modules**.
-- **Binary**, **Nat 8**, **Char** and **Text**.
-- **Array**, **Optional and Generic type**, and **Higher order functions**. 
-- **Custom type** and **Linked list**.
-- **Principal**, **Hashmap**, **Cycles** (how to deal with upgrades) & **stable variables**.
-- **Variant types**, **Result type**, **HTTP request** & **Intercanister messages**.
+- [Introduction :  **Actor**, **function**, **types**,**variables**, **loops** and **modules**](lessons/day_1/)
+- [**Binary**, **Nat 8**, **Char** and **Text**](lessons/day_2/)
+- [**Array**, **Optional and Generic type**, and **Higher order functions**](lessons/day_3/)
+- [**Custom type** and **Linked list**](lessons/day_4/)
+- [**Principal**, **Hashmap**, **Cycles** (how to deal with upgrades) & **stable variables**](lessons/day_5/)
+- [**Variant types**, **Result type**, **HTTP request** & **Intercanister messages**](lessons/day_6/)
 
 ## Lectures 🎬
 
