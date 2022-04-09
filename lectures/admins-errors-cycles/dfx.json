@@ -1,0 +1,38 @@
+{
+  "canisters": {
+    "access-control-basic": {
+      "main": "motoko/access-control-basic.mo",
+      "type": "motoko"
+    },
+    "access-control-multi": {
+      "main": "motoko/access-control-multi.mo",
+      "type": "motoko"
+    },
+    "error-handling": {
+      "main": "motoko/error-handling.mo",
+      "type": "motoko"
+    },
+    "experimental-cycles-a": {
+      "main": "motoko/experimental-cycles-a.mo",
+      "type": "motoko"
+    },
+    "experimental-cycles-b": {
+      "main": "motoko/experimental-cycles-b.mo",
+      "type": "motoko"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "dfx": "0.8.4",
+  "networks": {
+    "local": {
+      "bind": "127.0.0.1:8000",
+      "type": "ephemeral"
+    }
+  },
+  "version": 1
+}
