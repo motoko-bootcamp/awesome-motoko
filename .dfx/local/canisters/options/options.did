@@ -1,4 +1,0 @@
-service : {
-  multipleOfThree: (nat) -> (opt nat);
-  optionToNat: (opt nat) -> (nat);
-}
