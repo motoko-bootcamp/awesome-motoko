@@ -3,6 +3,10 @@
     "loops": {
       "main": "basic_syntax/loops/main.mo",
       "type": "motoko"
+    },
+    "options": {
+      "main": "basic_syntax/options/main.mo",
+      "type": "motoko"
     }
    
   },
