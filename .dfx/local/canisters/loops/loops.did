@@ -1,6 +1,0 @@
-service : {
-  for_loop: (vec text) -> ();
-  if_else: (nat) -> (text);
-  just_if: (bool) -> (nat);
-  while_loop: (nat) -> ();
-}
