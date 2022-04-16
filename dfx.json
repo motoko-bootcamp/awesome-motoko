@@ -8,6 +8,10 @@
       "main": "basic_syntax/arrays/main.mo",
       "type": "motoko"
     },
+    "text": {
+      "main": "basic_syntax/text_handling/main.mo",
+      "type": "motoko"
+    },
     "options": {
       "main": "basic_syntax/options/main.mo",
       "type": "motoko"
