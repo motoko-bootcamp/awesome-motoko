@@ -25,7 +25,6 @@ Each lecture was held live by one of the bootcamp mentor. The recording is avail
 - Motoko : <a href="https://www.youtube.com/watch?v=S_mxt-V4JCM&list=PL-JWmSO_v6zKU1QxsVDKmukkqFN64W-Nl" target="_blank"> Create, read, update & delete (CRUD) </a> by <a href="" target="_blank"> Seb </a>.
 - <a href="https://www.youtube.com/watch?v=EwJcTmMS3L4" target="_blank"> Deploying your first canister locally and on the Internet Computer </a> by <a href="https://github.com/orgs/motoko-bootcamp/people/anthonymq" target="_blank"> Anthony </a>.
 - <a href="https://www.youtube.com/watch?v=aBbecyphTic" target="_blank"> Introduction to NFTs on the IC </a> by <a href="https://twitter.com/tedreinhardt" target="_blank"> Ted </a>.
-- <a href="https://www.youtube.com/watch?v=T6vN7BZbZ7k&list=PL-JWmSO_v6zKU1QxsVDKmukkqFN64W-Nl" target="_blank"> How to build an NFT minter </a> by <a href="https://github.com/SebThuillier" target="_blank"> Seb </a>.
 - <a href="https://www.youtube.com/watch?v=Eo5SxW4G7P8" target="_blank"> Candid, the language of the Internet Computer </a> by <a href="https://github.com/chenyan-dfinity" target="_blank"> Yan </a>.
 - <a href="https://www.youtube.com/watch?v=T6vN7BZbZ7k&list=PL-JWmSO_v6zKU1QxsVDKmukkqFN64W-Nl" target="_blank"> Frontend and authentication </a> by <a href="https://github.com/krpeacock" target="_blank"> Kyle </a>.
 - Motoko : <a href="https://www.youtube.com/watch?v=gaVuMaTP2lQ" target="_blank"> handle HTTP request and assets </a> by <a href="https://github.com/skilesare" target="_blank"> Austin </a>.
