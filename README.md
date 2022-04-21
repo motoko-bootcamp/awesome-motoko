@@ -28,9 +28,9 @@ Each lecture was held live by one of the bootcamp mentor. The recording is avail
 - <a href="https://www.youtube.com/watch?v=T6vN7BZbZ7k&list=PL-JWmSO_v6zKU1QxsVDKmukkqFN64W-Nl" target="_blank"> How to build an NFT minter </a> by <a href="https://github.com/SebThuillier" target="_blank"> Seb </a>.
 - <a href="https://www.youtube.com/watch?v=Eo5SxW4G7P8" target="_blank"> Candid, the language of the Internet Computer </a> by <a href="https://github.com/chenyan-dfinity" target="_blank"> Yan </a>.
 - <a href="https://www.youtube.com/watch?v=T6vN7BZbZ7k&list=PL-JWmSO_v6zKU1QxsVDKmukkqFN64W-Nl" target="_blank"> Frontend and authentication </a> by <a href="https://github.com/krpeacock" target="_blank"> Kyle </a>.
-- <a href="https://www.youtube.com/watch?v=gaVuMaTP2lQ" target="_blank">  Motoko : handle HTTP request and assets </a> by <a href="https://github.com/skilesare" target="_blank"> Austin </a>.
-- <a href="https://www.youtube.com/watch?v=1R9qIpOKcu8" target="_blank">  Motoko : mutable states and shared types </a> by <a href="https://github.com/saikatdas0790" target="_blank"> Saikat Das </a>.
-- <a href="https://www.youtube.com/watch?v=cSJws2t5kxE" target="_blank">  Rust : using tests to speed up development by Adam </a>.
+- Motoko : <a href="https://www.youtube.com/watch?v=gaVuMaTP2lQ" target="_blank"> handle HTTP request and assets </a> by <a href="https://github.com/skilesare" target="_blank"> Austin </a>.
+- Motoko : <a href="https://www.youtube.com/watch?v=1R9qIpOKcu8" target="_blank">  mutable states and shared types </a> by <a href="https://github.com/saikatdas0790" target="_blank"> Saikat Das </a>.
+- Rust : <a href="https://www.youtube.com/watch?v=cSJws2t5kxE" target="_blank"> using tests to speed up development by Adam </a>.
 - <a href="https://www.youtube.com/watch?v=btSkITdSlCs" target="_blank"> Deploying a website on the Internet Computer </a> by<a href="https://github.com/saikatdas0790" target="_blank"> Saikat Das </a>.
 - Motoko : <a href="https://www.youtube.com/watch?v=DXEEk8-OZ0M" target="_blank"> packages and vessel </a> by <a href="https://github.com/di-wu" target="_blank"> Quint </a>.
 - Motoko : <a href="https://www.youtube.com/watch?v=VGrBatKZnbo" target="_blank"> admin access, error handling and cycles management </a> by  <a href="https://github.com/orgs/motoko-bootcamp/people/jorgenbuilder" target="_blank"> Jorgen </a>.
