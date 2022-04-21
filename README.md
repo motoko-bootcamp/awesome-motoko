@@ -16,7 +16,7 @@ For each topic, a guide is available and a set of challenges with their solution
 
 ## Lectures 🎬
 
-Each lecture was held live by one of the bootcamp mentor. The recording is available here.
+Each lecture is approximately 1 hour long and was held live by one of the bootcamp mentor.
 
 - Motoko : <a href="https://www.youtube.com/watch?v=DREJTZEccXA&list=PL-JWmSO_v6zIR71ny36laRgwYEcZ27WhC" target="_blank"> introduction to the language </a> by <a href="https://github.com/SebThuillier" target="_blank"> Seb </a>.
 - Motoko : <a href="https://www.youtube.com/watch?v=4YX41Nm7Wx8&list=PL-JWmSO_v6zIR71ny36laRgwYEcZ27WhC" target="_blank"> Variables, function and types </a> by <a href="https://github.com/professionalGithub99" target="_blank"> Albert </a>.
