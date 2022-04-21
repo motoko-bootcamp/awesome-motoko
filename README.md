@@ -41,7 +41,7 @@ Each lecture is approximately 1 hour long and was held live by one of the bootca
 - Rust : <a href="https://www.youtube.com/watch?v=YEkLTJvNygc" target="_blank"> storing data and keeping it secure on the IC </a> by <a href="https://github.com/Nima-Ra" target="_blank"> Nima </a>.
 - <a href="https://www.youtube.com/watch?v=GYPRqRWYj4o" target="_blank"> Token, nfts and standards on the IC </a> by <a href="https://github.com/orgs/motoko-bootcamp/people/jorgenbuilder" target="_blank"> Jorgen </a>.
 
-This repository also contains the code used by mentors during some lectures.
+This repository also contains the code during some lectures.
 
 - [Motoko : mutable states and shared types](lectures/mutable_state_shared_type/).
 - [Deploying a website on the Internet Computer](lectures/deploying_website_internet_computer/).
