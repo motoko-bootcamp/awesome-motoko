@@ -16,6 +16,14 @@
       "main": "basic_syntax/text_handling/main.mo",
       "type": "motoko"
     },
+    "intercanister": {
+      "main": "basic_syntax/intercanister/main.mo",
+      "type": "motoko"
+    },
+    "intercanister2": {
+      "main": "basic_syntax/intercanister/othercanister.mo",
+      "type": "motoko"
+    },
     "tries": {
       "main": "basic_syntax/tries/main.mo",
       "type": "motoko"
