@@ -24,6 +24,10 @@
       "main": "basic_syntax/intercanister/othercanister.mo",
       "type": "motoko"
     },
+    "intercanister3": {
+      "main": "basic_syntax/intercanister/thirdcanister.mo",
+      "type": "motoko"
+    },
     "tries": {
       "main": "basic_syntax/tries/main.mo",
       "type": "motoko"

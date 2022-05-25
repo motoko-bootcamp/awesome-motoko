@@ -1,5 +1,6 @@
 import Nat "mo:base/Nat";
 import Debug "mo:base/Debug";
+import Third "thirdcanister";
 
 actor {
     
@@ -45,4 +46,25 @@ actor {
     };
     //To call from command line: dfx canister call intercanister addTwoNum '(3,5)'
 
+    //To create a Third canister with structure as per thirdcanister.mo
+    //The async return type is mandatory in such cases even if the function is NOT public
+    type Third = Third.Third;
+    public func createCanister(): async Third{
+        let t = await Third.Third();
+        let countVal = await t.count();
+        Debug.print(debug_show countVal);
+        return t;
+    };
+    //To call from command line: dfx canister call intercanister createCanister 
+    //Output should be something like: (service "renrk-eyaaa-aaaaa-aaada-cai")
+
+    //To update those canisters created in the above step
+    public func updateCanister(a: Third): async Nat{
+        let upd = await a.increment();
+        return upd;
+    };
+    //To call from command line: dfx canister call intercanister updateCanister '(service "renrk-eyaaa-aaaaa-aaada-cai")'
+
+
+   
 };
