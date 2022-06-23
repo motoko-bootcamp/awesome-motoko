@@ -48,6 +48,7 @@ This repository also contains the code during some lectures.
 - [Motoko : create, read, update & delete](lectures/create_read_update_delete/).
 - [Motoko : admin access, error handling and cycles management](lectures/admins-errors-cycles/).
 - [Token, nfts and standards on the IC](lectures/token-standards/).
+- [Rust : Storing data and keeping them secure](lectures/storing_data_and_keeping_them_secure/).
 
 ## Ressources 📚
 
