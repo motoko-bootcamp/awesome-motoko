@@ -28,6 +28,10 @@
       "main": "basic_syntax/intercanister/thirdcanister.mo",
       "type": "motoko"
     },
+    "order": {
+      "main": "basic_syntax/order/main.mo",
+      "type": "motoko"
+    },
     "tries": {
       "main": "basic_syntax/tries/main.mo",
       "type": "motoko"
