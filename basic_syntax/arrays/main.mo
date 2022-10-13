@@ -1,6 +1,7 @@
 import Array "mo:base/Array";
 import Nat "mo:base/Nat";
 import Debug "mo:base/Debug";
+import Buffer "mo:base/Buffer";
 
 actor {
     //To print all elements of the array
@@ -44,4 +45,27 @@ actor {
         return Array.sort(newArr, Nat.compare);
     };
     //To run in command line: dfx canister call arrays sortTotalArray '(vec{vec{1;7;4};vec{2;8;3;0}})'
+
+
+    //To push a new element into the Array
+    public func push(arr: [Nat], n: Nat) : async [Nat] {
+        return Array.append(arr, Array.make(n));
+    };
+    //To run in command line: dfx canister call arrays push '(vec{1;6;2}, 4)'
+
+    //To pop out the last element out of the Array
+    //It is always easier to convert into Buffer for such operations and convert back at the end.
+    //Returns the updated array and the removed element.
+    public func pop(arr: [Nat]) : async ([Nat], Nat) {
+        var buff = Buffer.Buffer<Nat>(arr.size());
+        for (elem in arr.vals()) {
+            buff.add(elem)
+        };
+        
+        let _res = buff.removeLast();
+        let newArr = buff.toArray();
+        return (newArr, arr[arr.size()-1]);
+        
+    };
+    //To run in command line: dfx canister call arrays pop '(vec{4;5;1;0;2})'
 };
