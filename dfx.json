@@ -32,6 +32,10 @@
       "main": "basic_syntax/order/main.mo",
       "type": "motoko"
     },
+    "newclass": {
+      "main": "basic_syntax/creating_new_class/main.mo",
+      "type": "motoko"
+    },
     "tries": {
       "main": "basic_syntax/tries/main.mo",
       "type": "motoko"
