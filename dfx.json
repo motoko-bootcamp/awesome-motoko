@@ -39,6 +39,10 @@
     "tries": {
       "main": "basic_syntax/tries/main.mo",
       "type": "motoko"
+    },
+    "variants": {
+      "main": "basic_syntax/variants/main.mo",
+      "type": "motoko"
     }
     
   },
