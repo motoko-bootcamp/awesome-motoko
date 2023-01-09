@@ -36,6 +36,10 @@
       "main": "basic_syntax/creating_new_class/main.mo",
       "type": "motoko"
     },
+    "hashmap": {
+      "main": "basic_syntax/hashmap/main.mo",
+      "type": "motoko"
+    },
     "tries": {
       "main": "basic_syntax/tries/main.mo",
       "type": "motoko"
