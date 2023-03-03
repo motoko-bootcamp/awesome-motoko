@@ -40,6 +40,10 @@
       "main": "basic_syntax/hashmap/main.mo",
       "type": "motoko"
     },
+    "lists": {
+      "main": "basic_syntax/lists/main.mo",
+      "type": "motoko"
+    },
     "tries": {
       "main": "basic_syntax/tries/main.mo",
       "type": "motoko"
