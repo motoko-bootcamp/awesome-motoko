@@ -1,6 +1,8 @@
 import Char "mo:base/Char";
 import Text "mo:base/Text";
 import Array "mo:base/Array";
+import Iter "mo:base/Iter";
+
 actor {
 
     //  Challenge 1 
@@ -47,7 +49,7 @@ actor {
     //  Challenge 4 
     public func capitalize_character(char : Char) : async Char {
         let unicode_value = Char.toNat32(char);
-        if(unicode_value >= 97 or unicode_value <= 122){
+        if(unicode_value >= 97 and unicode_value <= 122){
             return(Char.fromNat32(unicode_value - 32))
         } else {
             return (Char.fromNat32(unicode_value));
@@ -57,7 +59,7 @@ actor {
     //  Challenge 5
     func _capitalize_character(char : Char) : Char {
         let unicode_value = Char.toNat32(char);
-        if(unicode_value >= 97 or unicode_value <= 122){
+        if(unicode_value >= 97 and unicode_value <= 122){
             return(Char.fromNat32(unicode_value - 32))
         } else {
             return (Char.fromNat32(unicode_value));
@@ -80,7 +82,7 @@ actor {
 
 
     //  Challenge 7 
-    public func trim_whitespace(t : Text) : asyncText {
+    public func trim_whitespace(t : Text) : async Text {
         let pattern = #text(" ");
         return(Text.trim(t, p));
     };
